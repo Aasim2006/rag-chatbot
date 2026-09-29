@@ -1,0 +1,8 @@
+streamlit>=1.35
+scikit-learn>=1.4
+numpy>=1.26
+
+# Optional upgrades (uncomment as needed):
+# sentence-transformers>=2.7   # better semantic retrieval (set USE_SENTENCE_EMBEDDINGS=True in rag_engine.py)
+# openai>=1.30                  # for generative answers via OpenAI
+# anthropic>=0.30                # for generative answers via Claude
