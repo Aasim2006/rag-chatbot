@@ -1,0 +1,22 @@
+NimbusCloud Product FAQ (Sample)
+
+What is NimbusCloud?
+NimbusCloud is a cloud storage and file-sharing platform designed for small and medium businesses. It offers automatic backup, version history, and team collaboration tools.
+
+What are the pricing plans?
+NimbusCloud offers three plans: Starter (100 GB, INR 299/month), Team (1 TB, INR 999/month), and Business (5 TB, INR 2,999/month). All plans include a 14-day free trial with no credit card required.
+
+How does file versioning work?
+Every time a file is edited, NimbusCloud automatically saves a new version. Users can view and restore up to 30 previous versions of any file for free. Business plan users get unlimited version history.
+
+Is my data encrypted?
+Yes. All files are encrypted in transit using TLS 1.3 and at rest using AES-256 encryption. NimbusCloud is also compliant with GDPR and SOC 2 Type II standards.
+
+Can I share files with people outside my organization?
+Yes, you can generate shareable links with optional password protection and expiry dates. External viewers do not need a NimbusCloud account to view shared files.
+
+What happens if I exceed my storage limit?
+You will receive an email notification when you reach 90% of your storage limit. Uploads are paused once you exceed 100% of your plan's storage until you either delete files or upgrade your plan.
+
+How do I cancel my subscription?
+You can cancel anytime from Account Settings > Billing > Cancel Subscription. Your data remains accessible in read-only mode for 30 days after cancellation before being permanently deleted.
